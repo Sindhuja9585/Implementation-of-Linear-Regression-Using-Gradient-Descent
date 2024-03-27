@@ -19,6 +19,8 @@ Program to implement the linear regression using gradient descent.
 Developed by: SINDHUJA P
 RegisterNumber: 212222220047
 */
+```
+```
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
